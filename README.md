@@ -39,11 +39,13 @@ A deep dive into Netflix's content trends using real-world data. This project un
    - Pie chart for content types
 
 #### 📷 Sample Visualizations
-![Content Added Over Time](https://github.com/shruti-1102/zero-to-analyst/assets/sample-line-plot.png)
+![Content Added Over Time](visualizations/sample-list-plot.png)
 
-![Movie vs TV Show Distribution](https://github.com/shruti-1102/zero-to-analyst/assets/sample-pie-chart.png)
+![Movie vs TV Show Distribution](visualizations/sample-line-plot.png)
 
-![Top Countries by Content](https://github.com/shruti-1102/zero-to-analyst/assets/sample-bar-plot.png)
+![Top Countries by Content](visualizations/sample-bar-plot.png)
+
+! [Top Genres](visualizations/sample-bar-plot2.png)
 
 ### 📈 Key Insights
 - 🔺 Netflix saw a major content addition spike around 2017–2019
