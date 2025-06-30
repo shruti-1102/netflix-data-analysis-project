@@ -45,7 +45,7 @@ A deep dive into Netflix's content trends using real-world data. This project un
 
 ![Top Countries by Content](visualizations/sample-bar-plot.png)
 
-! [Top Genres](visualizations/sample-bar-plot2.png)
+![Top Genres](visualizations/sample-bar-plot2.png)
 
 ### 📈 Key Insights
 - 🔺 Netflix saw a major content addition spike around 2017–2019
